@@ -15,13 +15,51 @@
         color: #ff9b9b;
     }
 
-    
+     .a a {
+    color: rgb(2, 9, 9) !important;
+  }
+
+.icon{
+    text-align:right;
+}
 
 
+.mail{
+    text-align: left;
+}
+.phone{
+    text-align: center;
+}
+.fa-facebook:hover {
+  color: #3b5998;
+}
 
+.fa-youtube:hover {
+  color: #FF0000; 
+}
 
+.fa-instagram:hover {
+  color: #C13584;
+}
 
+.fa-whatsapp:hover {
+  color: #25D366; 
+}
 
+.fa-twitter:hover {
+  color: #1DA1F2;
+}
+.center-nav {
+  margin: 0 auto;
+}
+
+.centre-nav {
+  margin: 0 auto;
+}
+.images{
+  width:5px;
+  text-align: left;
+}
 
 
 
