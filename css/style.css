@@ -26,9 +26,11 @@
 
 .mail{
     text-align: left;
+    font-family: 'Trebuchet MS';
 }
 .phone{
     text-align: center;
+     font-family: 'Trebuchet MS';
 }
 .fa-facebook:hover {
   color: #3b5998;
@@ -58,21 +60,109 @@
 }
 .navbar{
 background-color:#d87093;
+ font-family: 'Trebuchet MS';
 
-
+#d87093
 }
 .about{
   padding: 50px 0px ;
+   font-family: 'Trebuchet MS';
 }
 
 .fot{
+  margin-top: 20px;
   background-color:#fff9f3 ;
+  color: black;
+  font-family: 'Trebuchet MS';
+
 }
 
 
-.abc{
-  width:20%;
+.navbar-brand{
+  width:7%;
 }
+
+.formm{
+padding: 20px;
+
+}
+
+
+
+
+.testimonials{
+  text-align: center;
+   font-family: 'Trebuchet MS';
+   padding: 20px;
+}
+
+
+
+.card-deck{
+    font-family: 'Trebuchet MS';
+    padding: 30px ;
+
+}
+
+
+
+
+
+.testimonial-cards {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 30px;
+    } 
+    
+  .card {
+      background-color: #fdfdfd;
+      border-radius: 15px;
+      box-shadow: 0 8px 25px rgba(0, 0, 0, 0.1);
+      padding: 20px;
+      width: 300px;
+      text-align: center;
+      transition: transform 0.3s, box-shadow 0.3s;
+    }
+       .card:hover {
+      transform: scale(1.05);
+      box-shadow: 0 12px 30px rgba(0, 0, 0, 0.2);
+    }
+
+
+.formm{
+  font-family: 'Trebuchet MS';
+  background-color:#fdfdfd;
+}
+.navbar-collapse{
+  text-align: center;
+}
+.servicesss{
+  font-family: 'Trebuchet MS';
+  text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
